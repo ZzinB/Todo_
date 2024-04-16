@@ -1,4 +1,4 @@
 # Todo CRUD
-Spring + JSP + Mybatis
+Spring + SpringMVC + JSP + Mybatis
 
 
